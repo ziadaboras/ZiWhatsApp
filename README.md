@@ -1,2 +1,0 @@
-# ZiWhatsApp
-ZiWhatsApp
